@@ -3,6 +3,8 @@
 
 Um motorista de aplicativo recebeu uma corrida para realizar. A localização atual do motorista é representada a seguir pelo vértice número 1 (um) e a corrida está no vértice de número 5 (cinco). 
 
+![image](https://github.com/Poliih/algoritmoDijkstra/assets/104945360/a836e990-d8db-4a6a-afaa-f7d72eef8afd)
+
 O grafo acima exibe todas as rotas para alcançar o destino a partir do ponto de partida. O destino da corrida é o vértice indicado pelo número 5 (cinco). As possíveis rotas são representadas pelos demais vértices que vão de 1 (um), que é a origem, a 4 (quatro).
 
 Desenvolva um algoritmo que ajude o motorista de aplicativo a tomar a melhor decisão de rota, pois devido ao aumento consecutivo do valor do combustível, o motorista quer uma estimativa de qual é a melhor rota até o destino da corrida. Para isso, foi feito um levantamento histórico do consumo médio das viagens passando por cada ponto de origem até o destino final.
